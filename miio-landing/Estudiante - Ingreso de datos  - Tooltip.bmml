@@ -1,0 +1,28 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="541" measuredH="933" mockupW="434" mockupH="867">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="107" y="66" w="-1" h="-1" measuredW="434" measuredH="867" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+        <resizing>stretch</resizing>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="137" y="120" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>angle-left%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="161" y="174" w="282" h="-1" measuredW="185" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Tarjetas%20Adicionales</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Paragraph" x="161" y="248" w="319" h="419" measuredW="275" measuredH="80" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Ahorrar%20en%20equipo%20es%20m%E1s%20divertido.%0A%20%0APuedes%20a%F1adir%20tarjetas%20adicionales%20de%20familiares%20o%20amigos%20y%20que%20te%20ayuden%20a%20ahorrar%20para%20tus%20estudios.%20Cada%20vez%20que%20alcances%20tu%20meta%20mensual%2C%20ellos%20recibir%E1n%20una%20nota%20de%20agradecimiento%20por%20ayudarte%20a%20cumplir%20tus%20metas.%0A%20%0ASolo%20tienes%20que%20ingresar%20el%20n%FAmero%20de%20tarjeta%20y%20enviaremos%20un%20mensaje%20a%20su%20due%F1o%20para%20que%20acepte%20participar%20elija%20el%20monto%20con%20el%20que%20quiere%20colaborar.%20Se%20puede%20cancelar%20en%20cualquier%20momento.%0A%20%0ASi%20a%FAn%20no%20cuentan%20con%20su%20Tarjeta%20Miio%2C%20inv%EDtalos%20a%20obtener%20la%20suya%20y%20empiecen%20a%20ahorrar%20juntos.</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Image" x="220" y="674" w="222" h="192" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
